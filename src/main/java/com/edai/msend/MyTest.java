@@ -11,6 +11,8 @@ public class MyTest {
 		
 		System.out.println(fmt.format(34.555));
 		
+		System.out.println("我也来在搞一下dev...");
+		
 	}
 	
 }
